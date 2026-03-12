@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**nlVitoria/nlVitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vitoria Lustosa, a Computer Science student.
 
-Here are some ideas to get you started:
+Currently studying at FACAPE and building a strong foundation in programming, algorithms, data structures, and computer networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- IT Support
+- Computer Networks
+- QA / Software Testing
+- Fullstack Development
+
+This profile is where I share my projects, experiments, and things I'm currently learning. Everything here is part of my journey in technology.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+
+## Tools & Technologies (learning)
+
+- C Programming
+- Git & GitHub
+- Windows and Linux Systems
+- Computer Networks
+- HTML & CSS 
+- Microsoft Office
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+
+## Goals
+
+- Improve my programming skills
+- Build practical projects
+- Contribute to open-source projects
+- Grow professionally in the tech industry
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## About Me
+
+- 🐶 Have a dog
+- 🎸 Loves to play
+- 💻 Interested in IT Support and Software Development
+- 📚 Always learning something new in technology
+- 🌎 Born and live in Brazil
+
+
