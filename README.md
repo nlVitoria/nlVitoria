@@ -15,7 +15,7 @@ This profile is where I share my projects, experiments, and things I'm currently
 _________________________________________________________________________________________________________________________________________________________________________
 
 
-## Tools & Technologies (learning)
+## Tools & Technologies (current learning)
 
 - C Programming
 - Git & GitHub
